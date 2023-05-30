@@ -1,4 +1,34 @@
-# README - TFM (Trabajo Final de Máster)
+# README - ENG -  TFM (Master's Thesis)
+This repository contains all the files related to my Master's Thesis (TFM). Here you will find the necessary documentation, as well as code files and Power BI document used in my research.
+
+## Recommended Tools
+
+Before using the files included in this repository, it is recommended to have the following tools installed:
+
+- MySQL: It is used as a database management system for storing the data used in the TFM.
+- Anaconda Navigator or Jupyter Notebook: These development platforms provide an interactive programming environment and allow you to run the Python code included in this repository.
+- Machine Learning libraries: Make sure to have the following Python libraries installed: pandas, numpy, scikit-learn, matplotlib, seaborn, and any other specific library mentioned in the code files.
+- Power BI: In the case you want to see diferent types of graphs related to this TFM with a good looking and careful design.
+
+## File Structure
+
+- TFM_Memoria.pdf: This PDF document contains a fragment of my thesis that includes different sections such as indices, summary, and abstract. For more information about my research, please feel free to contact me via LinkedIn or email.
+- /Power BI/PowerBi.pbix: This folder contains the PowerBi.pbix file that can be opened with Power BI to visualize a series of interactive charts related to the data used in my TFM. If you want to explore the visualizations, make sure to have Power BI installed on your system.
+- Limpieza y tratado de los datos.ipynb: This Python notebook is the starting point to execute the code related to data cleaning and preprocessing used in my TFM. It is recommended to run this file before using any other code in the repository.
+- /Modelos supervisados/Modelos supervisados.ipynb: This folder contains the Modelos supervisados.ipynb file, which includes the code related to supervised models used in my research. It includes linear regression, multiple linear regression, multiple polynomial regression with various degrees, and regularization techniques like Lasso and Ridge. It also includes testing and evaluation of the models.
+- /Modelos NO supervisados/Modelos no supervisados.ipynb: This folder contains the Modelos no supervisados.ipynb file, which includes the code related to the unsupervised clustering model used in my research. It includes different tests and optimizations of the model to achieve optimal results.
+
+## Execution Order 
+In case you want to run our code locally, it is necessary to have all the recommended tools installed beforehand and follow a specific order.The execution order requires that the first document to be executed must be "Limpieza y tratado de los datos.ipynb" (Data Cleaning and Processing.ipynb) as it handles the necessary adjustments on the data for our supervised and unsupervised models documents to work correctly.
+
+# Contact
+If you would like to get more information about my TFM or if you have any questions, please feel free to contact me through the following channels:
+
+- LinkedIn: Sergio Martínez https://www.linkedin.com/in/sergio-mart%C3%ADnez-a94255269/
+- Email: sersergio65@gmail.com
+> Thank you for your interest in my TFM!
+
+# README - ESP -  TFM (Trabajo Final de Máster)
 Este repositorio contiene los archivos relacionados con mi Trabajo Final de Máster (TFM) en Data Science. Aquí encontrarás la documentación necesaria, así como los archivos de código y visualizaciones utilizados en mi investigación.
 
 ## Herramientas recomendadas
