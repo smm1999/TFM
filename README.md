@@ -1,6 +1,9 @@
 # README - ENG -  TFM (Master's Thesis)
 This repository contains all the files related to my Master's Thesis (TFM). Here you will find the necessary documentation, as well as code files and Power BI document used in my research.
 
+# Data 
+The Data used for this project has been extracted form Kaggle: https://www.kaggle.com/datasets/edumucelli/spotifys-worldwide-daily-song-ranking
+
 ## Recommended Tools
 
 Before using the files included in this repository, it is recommended to have the following tools installed:
@@ -28,8 +31,13 @@ If you would like to get more information about my TFM or if you have any questi
 - Email: sersergio65@gmail.com
 > Thank you for your interest in my TFM!
 
+
+
 # README - ESP -  TFM (Trabajo Final de Máster)
 Este repositorio contiene los archivos relacionados con mi Trabajo Final de Máster (TFM) en Data Science. Aquí encontrarás la documentación necesaria, así como los archivos de código y visualizaciones utilizados en mi investigación.
+
+# Datos 
+Los datos usados para este poryecto han sido extraidos en kaggle: https://www.kaggle.com/datasets/edumucelli/spotifys-worldwide-daily-song-ranking
 
 ## Herramientas recomendadas
 Antes de utilizar los archivos incluidos en este repositorio, se recomienda tener instaladas las siguientes herramientas:
